@@ -1,3 +1,8 @@
+/* 
+Author: Cheng Yue
+Date: 2/17/2025
+Descrpition: practice for ADT BAG
+*/
 #include<iostream>
 #include<string>
 #include<algorithm>
